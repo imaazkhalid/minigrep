@@ -34,7 +34,7 @@ To run `minigrep`, clone this repository and build the project:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/minigrep.git
+git clone https://github.com/imaazkhalid/minigrep.git
 cd minigrep
 
 # Build the project
